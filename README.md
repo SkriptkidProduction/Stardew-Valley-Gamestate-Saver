@@ -1,4 +1,5 @@
 TYPE: Simple Batch with temporray VBS script
+
 USAGE: Backup the savestate of Stardew Valley
 
 To use the script, 7zip must be installed in the default directory. https://www.7-zip.de/
